@@ -49,9 +49,7 @@ L 站：<https://linux.do/u/lijinmu>
 
 <img src="./tg.png" alt="TG交流群 @JNMHUB" width="320" />
 
-如果这个项目对你有帮助，也欢迎随缘赞赏支持：
 
-<img src="./赞赏.png" alt="赞赏码" width="320" />
 
 ## 配置好接码KEY 之后，这样执行就行了
 
